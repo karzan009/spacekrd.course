@@ -1,0 +1,96 @@
+body {
+    font-family: Cormorant, serif;
+    background-color: #fff;
+  }
+
+  h1 {
+    display: inline-block;
+    font-weight: 300;
+    margin: 0 32px 0 0;
+  }
+  
+  .links {
+    display: inline-block;
+  }
+  
+  .links li {
+    display: inline-block;
+  }
+  
+  .links a {
+    color: black;
+    text-decoration: none;
+    font-size: 20px;
+    margin: 0 8px;
+  }
+  
+  .links ul {
+    padding: 0;
+  }
+  .navbar {
+    margin: 32px;
+  }
+
+  .LehmannMaupin {
+    border-bottom: 1px solid black;
+    display: inline-block;
+    padding-bottom: 8px;
+    margin-top: 0;
+  }
+  .facts2 {
+    font-weight: 800;
+  }
+  .facts2 li {
+    font-weight: 500;
+  }
+  .Locations {
+    margin: 30px 0 0 20px;
+}
+  
+
+  .Locations h3 {
+font-weight: 800;
+  }
+
+  
+
+  .locate {
+    width: 35%;
+    display: inline-block;
+    box-sizing: border-box;
+    padding: 16px;
+  }
+  .locate img {
+    height: 300px;
+    width: 100%;
+    object-fit: cover;
+    margin: 0 0 0 50%;
+  }
+  .locate img:hover {
+    opacity: 0.9;
+  }
+  .victoria h3 {
+margin: 0 0 0 50%;
+font-weight: 600;
+  }
+  
+  .london1 {
+    margin: 10px 0 0 50%;
+  }
+  .london {
+    margin: 0 0 0 50%;
+  }
+  .locatep1 {
+    margin: 10px 0 0 50%;
+    font-weight: 500;
+  }
+  .locatep {
+    margin: 0 0 0 50%;
+    font-weight: 500;
+  }
+
+  .hr {
+    width: 70%;
+    height: 1px;
+    color: black;
+  }
